@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mohitpimoli31@gmail.com**
 
-- ⚡ Fun fact **Linus Torvalds, the creator of Linux, also developed Git. He created Git out of frustration with existing version control systems, turning his annoyance into one of the most widely used tools in software development.**
+- ⚡ Fun fact :- **Linus Torvalds, the creator of Linux, also developed Git. He created Git out of frustration with existing version control systems, turning his annoyance into one of the most widely used tools in software development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
