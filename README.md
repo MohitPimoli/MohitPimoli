@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitpimoli" alt="mohitpimoli" /></a> </p>
 
-- 🔭 I’m currently working on [E-Voting System](https://github.com/MohitPimoli/E-Voting-System-Based-On-BlockChain)
+- 🔭 I’m currently working on [UniSync](https://github.com/MohitPimoli/UniSync)
 
 - 🌱 I’m currently learning **Machine Learning**
 
