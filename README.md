@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [UniSync](https://github.com/MohitPimoli/UniSync)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Active Directory**
 
 - 👯 I’m looking to collaborate on [Port Scanner](https://github.com/MohitPimoli/python-port-scanner)
 
