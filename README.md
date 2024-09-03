@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Port Scanner](https://github.com/MohitPimoli/python-port-scanner)
 
-- 🤝 I’m looking for help with [GitHub for Beginners](https://github.com/MohitPimoli/Upload-Folders-to-GitHub)
+- 🤝 I’m looking for help with [Active Directory](https://github.com/MohitPimoli/Active-Directory)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohitPimoli](https://github.com/MohitPimoli)
 
