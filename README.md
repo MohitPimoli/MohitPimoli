@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/yYSGRFQq/GIF.gif" alt="Hi, I'm Mohit Pimoli"  width="600" height="50" target="_blank"></h1>
+<h1> <img src="https://i.postimg.cc/yYSGRFQq/GIF.gif" alt="Hi, I'm Mohit Pimoli"  width="600" height="50" target="_blank"></h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpimoli&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpimoli" /> </p>
