@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/Vvyz9Y8m/gif.gif" alt="Hi, I'm Mohit Pimoli"  width="600" height="50" target="_blank" align="center">
+<img src="https://i.postimg.cc/Vvyz9Y8m/gif.gif" alt="Hi, I'm Mohit Pimoli"  width="600" height="50" target="_blank" class="center">
   
 <h3 align="center">A passionate Software Engineer from India</h3>
 
