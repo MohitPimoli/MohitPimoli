@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm ![gif](https://github.com/user-attachments/assets/99712da1-3c98-4946-b091-50d5cf224abe)</h1>
-![gif](https://github.com/user-attachments/assets/99712da1-3c98-4946-b091-50d5cf224abe)
+<h1 align="center">Hi 👋, I'm ![](https://github.com/MohitPimoli/MohitPimoli/blob/main/gif.gif)</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpimoli&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpimoli" /> </p>
