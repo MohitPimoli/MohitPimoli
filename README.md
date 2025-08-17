@@ -3,20 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpimoli&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpimoli" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitpimoli" alt="mohitpimoli" /></a> </p>
 
-- 🔭 I’m currently working on [UniSync](https://github.com/MohitPimoli/UniSync)
-
-- 🌱 I’m currently learning **Active Directory**
-
-- 👯 I’m looking to collaborate on [Port Scanner](https://github.com/MohitPimoli/python-port-scanner)
-
-- 🤝 I’m looking for help with [Active Directory](https://github.com/MohitPimoli/Active-Directory)
-
+- 🔭 I’m currently working on [drool-rule-checker](https://github.com/MohitPimoli/drool-rule-checker)
+- 🌱 I’m currently learning **Spring Boot** & **AWS SDK**
+- 🤝 I’m looking for help with [drool-rule-checker](https://github.com/MohitPimoli/drool-rule-checker)
 - 👨‍💻 All of my projects are available at [https://github.com/MohitPimoli](https://github.com/MohitPimoli)
-
 - 💬 Ask me about **Networking, Git and GitHub, Cybersecurity**
-
 - 📫 How to reach me **mohitpimoli31@gmail.com**
-
 - ⚡ Fun fact :- **Linus Torvalds, the creator of Linux, also developed Git. He created Git out of frustration with existing version control systems, turning his annoyance into one of the most widely used tools in software development.**
 
 <h3 align="left">Connect with me:</h3>
